@@ -1,1 +1,1 @@
-# Orthology MetaSearch
+# Orthology Metasearch
