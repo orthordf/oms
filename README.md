@@ -1,2 +1,1 @@
-# oms
-Orthology meta-search
+# Orthology MetaSearch
